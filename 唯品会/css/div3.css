@@ -1,0 +1,12 @@
+#div3>img{
+	width: 100%;
+}
+
+#div3_1{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;	
+}
+#div3_1>img{
+	width: 33.3%;	
+}
